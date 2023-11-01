@@ -9,6 +9,7 @@ var usersRouter = require('./routes/users');
 var hatsRouter = require('./routes/hats');
 var boardRouter = require('./routes/board');
 
+
 var app = express();
 
 // view engine setup
